@@ -530,7 +530,7 @@ footer{
 }
 
 footer .content {
-  max-width: 1350px;
+  max-width: 1750px;
   margin: auto;
   padding: 20px;
   display: flex;
@@ -575,21 +575,17 @@ footer .content .middle{
   font-size: 18px;
 }
 
-
 .middle th{
   padding: 5px 30px 5px 0;
   text-align: justify;
-  border-bottom: 1px solid;
+  border-bottom: 1px solid #fff;
 }
 
 .middle td{
   padding-left: 20px;
-  border-bottom: 1px solid;
+  border-bottom: 1px solid #fff;
 }
 
-footer .content .middle a{
-  line-height: 32px;
-}
 
 footer .content .right input[type="text"]{
   height: 45px;
